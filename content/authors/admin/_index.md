@@ -18,7 +18,7 @@ organizations:
   url: "https://www.rpi.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational linguistics, logic, emotions and reasoning.
 
 interests:
 - Phishing and Fraud in Social Networks
