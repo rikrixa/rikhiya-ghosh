@@ -71,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a doctoral candidate in <a href="https://rair.cogsci.rpi.edu">RAIR Lab</a> in <a href="https://science.rpi.edu/computer-science">Computer Science department</a> of <a href="https://www.rpi.edu">Rensselaer Polytechnic Institute</a>. My advisor is <a href="http://homepages.rpi.edu/~brings/">Prof. Selmer Bringsjord</a>. and I am funded by <a href="https://rair.cogsci.rpi.edu/projects/muri/">ONR MURI</a>. My dissertation is on Detection of Counter-masquerading using Counteridenticals. I did my Bachelors in <a href="https://www.iiests.ac.in">Indian Institute of Science and Technology Shibpur</a> in Computer Science.
